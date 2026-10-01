@@ -42,11 +42,7 @@ Description: Reconnaissance phases exposed unauthenticated directories and unnec
 
 Evidence: Nmap and directory brute-forcing tools mapped hidden folders revealing application structural components.
 
-<img width="701" height="453" alt="image" src="https://github.com/user-attachments/assets/08568aab-e987-400d-b1fa-a1e41410a618" />
-
-<img width="697" height="421" alt="image" src="https://github.com/user-attachments/assets/a0c37f7a-f59d-4c04-b3a3-3bf50ac47f8d" />
-
-<img width="686" height="241" alt="image" src="https://github.com/user-attachments/assets/94893c1d-ba4e-4d6b-a7f1-84c032957b47" />
+<img width="640" height="437" alt="image" src="https://github.com/user-attachments/assets/46712928-6bac-48cb-9b46-fa87895d5043" />
 
 
 🗝️ Finding 2: Weak Password Policies and Credential Exposure
@@ -75,16 +71,21 @@ Description: Specific parameters lacked proper sanitization, presenting potentia
 
 Evidence: Interception via Burp Suite confirmed improper handling of crafted HTTP inputs.
 
+<img width="701" height="453" alt="image" src="https://github.com/user-attachments/assets/08568aab-e987-400d-b1fa-a1e41410a618" />
+
+<img width="697" height="421" alt="image" src="https://github.com/user-attachments/assets/a0c37f7a-f59d-4c04-b3a3-3bf50ac47f8d" />
+
+<img width="686" height="241" alt="image" src="https://github.com/user-attachments/assets/94893c1d-ba4e-4d6b-a7f1-84c032957b47" />
 
 
-04. Risk Rating
+# 04. Risk Rating
   
    Vulnerabilities discovered during the engagement are categorized based on their severity and potential business impact:
    
  <img width="1017" height="373" alt="image" src="https://github.com/user-attachments/assets/e0831e3b-eacf-49b1-81dd-8a8f1be83a6c" />
 
    
-   05. Recommendations and Remediation
+ #  05. Recommendations and Remediation
      
 To mitigate the identified risks and secure MediRoza General Hospital’s infrastructure, the following actionable steps are recommended:
 
